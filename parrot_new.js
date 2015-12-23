@@ -4,11 +4,11 @@ Slack = require ('..')
 
 token = 'xoxb-16399510402-PO81SMTTKAMUQjEV7p1r2Jbd';
 
-fs = require('fs')
-
 autoReconnect = true;
 
 autoMark = true;
+
+fs = require('fs')
 
 slack = new Slack(token, autoReconnect, autoMark);
 

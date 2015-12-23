@@ -479,3 +479,179 @@ You have 1 unread message
 @parrotbot responded with "DID YOU KNOW: The kakapo is possibly the longest-living bird species in the world. The low adult mortality rate suggests and average life expectancy of 90 years!"
 @parrotbot responded with "DID YOU KNOW: A peculiar habit of the kakapo is to freeze when disturbed, keeping absolutely still and hoping to blend into the background. Most animals have evolved more useful forms of defence, such as taking flight; but the kakapo obviously did not need this behaviour in the days when New Zealand’s only predators were avian, such as Haast’s eagle."
 @parrotbot responded with "DID YOU KNOW: Watch a kakapo named Sirocco attempt to mate with some dude's head while Stephen Fry laughs at him: https://www.youtube.com/watch?v=9T1vfsHYiKY"
+[Wed Dec 23 2015 09:55:29 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 09:55:29 GMT-0500 (EST)] INFO Reconnecting in 1000ms
+[Wed Dec 23 2015 09:55:30 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 09:55:30 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 09:55:31 GMT-0500 (EST)] INFO Reconnecting in 2000ms
+[Wed Dec 23 2015 09:55:33 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 09:55:33 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 09:55:33 GMT-0500 (EST)] INFO Reconnecting in 3000ms
+[Wed Dec 23 2015 09:55:36 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 09:55:36 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 09:55:36 GMT-0500 (EST)] INFO Reconnecting in 4000ms
+[Wed Dec 23 2015 09:55:40 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 09:55:40 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 09:55:40 GMT-0500 (EST)] INFO Reconnecting in 5000ms
+/home/thegreekbrit/parrot/slack-client/parrot/parrot.js:163
+});
+  ^
+
+SyntaxError: Unexpected end of input
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:413:25)
+    at Object.Module._extensions..js (module.js:452:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:475:10)
+    at startup (node.js:118:18)
+    at node.js:952:3
+[Wed Dec 23 2015 10:00:23 GMT-0500 (EST)] INFO Connecting...
+undefined
+Error: not_authed
+[Wed Dec 23 2015 10:00:24 GMT-0500 (EST)] INFO Reconnecting in 1000ms
+[Wed Dec 23 2015 10:00:25 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:00:25 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 10:00:25 GMT-0500 (EST)] INFO Reconnecting in 2000ms
+[Wed Dec 23 2015 10:00:27 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:00:27 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 10:00:27 GMT-0500 (EST)] INFO Reconnecting in 3000ms
+[Wed Dec 23 2015 10:00:30 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:00:30 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 10:00:30 GMT-0500 (EST)] INFO Reconnecting in 4000ms
+[Wed Dec 23 2015 10:00:34 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:00:34 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 10:00:34 GMT-0500 (EST)] INFO Reconnecting in 5000ms
+[Wed Dec 23 2015 10:00:39 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:00:39 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 10:00:40 GMT-0500 (EST)] INFO Reconnecting in 6000ms
+[Wed Dec 23 2015 10:01:12 GMT-0500 (EST)] INFO Connecting...
+undefined
+Error: not_authed
+[Wed Dec 23 2015 10:01:12 GMT-0500 (EST)] INFO Reconnecting in 1000ms
+[Wed Dec 23 2015 10:01:13 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:01:13 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 10:01:14 GMT-0500 (EST)] INFO Reconnecting in 2000ms
+[Wed Dec 23 2015 10:01:16 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:01:16 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 10:01:16 GMT-0500 (EST)] INFO Reconnecting in 3000ms
+[Wed Dec 23 2015 10:01:19 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:01:19 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 10:01:19 GMT-0500 (EST)] INFO Reconnecting in 4000ms
+[Wed Dec 23 2015 10:02:17 GMT-0500 (EST)] INFO Connecting...
+xoxb-16399510402-PO81SMTTKAMUQjEV7p1r2Jbd
+
+Error: not_authed
+[Wed Dec 23 2015 10:02:18 GMT-0500 (EST)] INFO Reconnecting in 1000ms
+[Wed Dec 23 2015 10:02:19 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:02:19 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 10:02:19 GMT-0500 (EST)] INFO Reconnecting in 2000ms
+[Wed Dec 23 2015 10:02:21 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:02:21 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 10:02:21 GMT-0500 (EST)] INFO Reconnecting in 3000ms
+[Wed Dec 23 2015 10:02:24 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:02:24 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 10:02:24 GMT-0500 (EST)] INFO Reconnecting in 4000ms
+[Wed Dec 23 2015 10:02:28 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:02:28 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 10:02:29 GMT-0500 (EST)] INFO Reconnecting in 5000ms
+undefined
+[Wed Dec 23 2015 10:02:57 GMT-0500 (EST)] INFO Connecting...
+xoxb-16399510402-PO81SMTTKAMUQjEV7p1r2Jbd
+
+Error: not_authed
+[Wed Dec 23 2015 10:02:57 GMT-0500 (EST)] INFO Reconnecting in 1000ms
+[Wed Dec 23 2015 10:02:58 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:02:58 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 10:02:58 GMT-0500 (EST)] INFO Reconnecting in 2000ms
+[Wed Dec 23 2015 10:03:00 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:03:00 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 10:03:00 GMT-0500 (EST)] INFO Reconnecting in 3000ms
+[Wed Dec 23 2015 10:03:03 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:03:03 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 10:03:04 GMT-0500 (EST)] INFO Reconnecting in 4000ms
+[Wed Dec 23 2015 10:03:08 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:03:08 GMT-0500 (EST)] INFO Connecting...
+token: undefined
+[Wed Dec 23 2015 10:03:27 GMT-0500 (EST)] INFO Connecting...
+xoxb-16399510402-PO81SMTTKAMUQjEV7p1r2Jbd
+
+Error: not_authed
+[Wed Dec 23 2015 10:03:28 GMT-0500 (EST)] INFO Reconnecting in 1000ms
+[Wed Dec 23 2015 10:03:29 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:03:29 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 10:03:29 GMT-0500 (EST)] INFO Reconnecting in 2000ms
+[Wed Dec 23 2015 10:03:31 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:03:31 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 10:03:31 GMT-0500 (EST)] INFO Reconnecting in 3000ms
+[Wed Dec 23 2015 10:03:34 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:03:34 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 10:03:34 GMT-0500 (EST)] INFO Reconnecting in 4000ms
+[Wed Dec 23 2015 10:03:38 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:03:38 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 10:03:38 GMT-0500 (EST)] INFO Reconnecting in 5000ms
+/home/thegreekbrit/parrot/slack-client/parrot/parrot.js:26
+slack.on('open', function() {
+     ^
+
+TypeError: Cannot read property 'on' of undefined
+    at Object.<anonymous> (/home/thegreekbrit/parrot/slack-client/parrot/parrot.js:26:6)
+    at Module._compile (module.js:434:26)
+    at Object.Module._extensions..js (module.js:452:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:475:10)
+    at startup (node.js:118:18)
+    at node.js:952:3
+token: undefined
+[Wed Dec 23 2015 10:06:35 GMT-0500 (EST)] INFO Connecting...
+xoxb-16399510402-PO81SMTTKAMUQjEV7p1r2Jbd
+
+Error: not_authed
+[Wed Dec 23 2015 10:06:35 GMT-0500 (EST)] INFO Reconnecting in 1000ms
+[Wed Dec 23 2015 10:06:36 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:06:36 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 10:06:36 GMT-0500 (EST)] INFO Reconnecting in 2000ms
+[Wed Dec 23 2015 10:06:38 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:06:38 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 10:06:38 GMT-0500 (EST)] INFO Reconnecting in 3000ms
+[Wed Dec 23 2015 10:06:41 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:06:41 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 10:06:41 GMT-0500 (EST)] INFO Reconnecting in 4000ms
+[Wed Dec 23 2015 10:06:45 GMT-0500 (EST)] INFO Attempting reconnect
+[Wed Dec 23 2015 10:06:45 GMT-0500 (EST)] INFO Connecting...
+Error: not_authed
+[Wed Dec 23 2015 10:06:46 GMT-0500 (EST)] INFO Reconnecting in 5000ms
+[Wed Dec 23 2015 10:07:37 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest, supersecretclevechat
+You have 1 unread message
+@parrotbot responded with "Kakapo are friendly! Both the Maori and early European settlers kept kakapo as pets. Even wild kakapo are known to approach, climb on, and preen people."
