@@ -666,3 +666,20 @@ You are in:
 As well as: team_cleve, bottest_ahouston, ahtest, supersecretclevechat
 You have 0 unread messages
 @parrotbot responded with "yes"
+[Wed Dec 23 2015 10:32:52 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest, supersecretclevechat
+You have 1 unread message
+@parrotbot responded with "DID YOU KNOW: Kakapo are critically endangered. The kakapo problems began with Maori settlers, and intensified when Europeans arrived. Both groups cleared large areas of the kakapo habitat and brought with them predators like cats, rats, and stoats that the kakapo had no defenses against."
+@parrotbot responded with "DID YOU KNOW: "
+@parrotbot responded with "DID YOU KNOW: The kakapo is possibly the longest-living bird species in the world. The low adult mortality rate suggests and average life expectancy of 90 years!"
+@parrotbot responded with "DID YOU KNOW: "
+@parrotbot responded with "DID YOU KNOW: None of the kakapo whose ages we do know have yet died of old age, even though most were discovered 15-30 years ago. In fact, it may not be known how long kakapo live until some of the birds hatched during the Kakapo Recovery program die of old age, which might be several decades away."
+@parrotbot responded with "DID YOU KNOW: Kakapo freeze when startled. One of their defenses is to freeze and hope to blend into the background when danger is near."
+@parrotbot responded with "DID YOU KNOW: Everything in the kakapo’s lifestyle happens slowly. Males do not start breeding until they are about four years old, while females do not start until they are at least six years old. Even then, breeding does not take place every year. Rather, it seems to be dependent on the availability of key food supplies, such as the fruiting of rimu trees, and will happen on average only every two to four years."
+@parrotbot responded with "DID YOU KNOW: The kakapo is the heaviest parrot in the world."
+@parrotbot responded with "DID YOU KNOW: It is thought that, many hundreds of thousands of years ago, the kakapo was probably a typical, lightweight parrot that flew through the air to travel and gather its food. But the process of evolution without the presence and effect of mammals in New Zealand saw the bird give away its flying skills, put on weight, and become a good hiker and climber instead, with powerful claws."
+@parrotbot responded with "DID YOU KNOW: Kakapo have a fucking scary-ass call, called a "skraark". It's awful. Check it out: http://kakaporecovery.org.nz/wp-content/uploads/2013/03/skraark.mp3"
+@parrotbot responded with "DID YOU KNOW: The kakapo is possibly the longest-living bird species in the world. The low adult mortality rate suggests and average life expectancy of 90 years!"
+@parrotbot responded with "DID YOU KNOW: The kakapo is best described as a midnight rambler, spending most of its life sleeping during the day and wandering alone through the forest at night."

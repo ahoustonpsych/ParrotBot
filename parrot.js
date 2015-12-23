@@ -79,8 +79,9 @@ slack.on('message', function(message) {
 				if (text.match('http(s?):\/\/') != null) {
 					response = ':dance_parrot: BCLEVE IN YOURSELF :dance_parrot:';
 					//response = ':partyparrot: :dance_parrot: :dance_parrot2: :dance_parrot3: BCLEVE IN YOURSELF :dance_parrot3: :dance_parrot2: :dance_parrot: :partyparrot:';
-					channel.send(response);
-					return console.log("@" + slack.self.name + " responded with \"" + response + "\"");
+					//channel.send(response);
+					//return console.log("@" + slack.self.name + " responded with \"" + response + "\"");
+					chanResp(channel, response);
 				}
 			}
 		}
@@ -90,8 +91,9 @@ slack.on('message', function(message) {
 				if (text.match('.*([hH][aA][hH][aA])|([Ll][Oo][Ll]).*') != null) {
 					//response = ':dance_parrot: BCLEVE IN YOURSELF :dance_parrot:';
 					response = ':partyparrot: :dance_parrot: :dance_parrot2: :dance_parrot3: BCLEVE IN YOURSELF :dance_parrot3: :dance_parrot2: :dance_parrot: :partyparrot:';
-					channel.send(response);
-					return console.log("@" + slack.self.name + " responded with \"" + response + "\"");
+					//channel.send(response);
+					//return console.log("@" + slack.self.name + " responded with \"" + response + "\"");
+					chanResp(channel, response);
 				}
 			}
 		}
@@ -103,8 +105,9 @@ slack.on('message', function(message) {
 				//match on 'test123'
 				if (text.match('test123') != null) {
 					response = ':dance_parrot2: :dance_parrot2: :dance_parrot2:';
-					channel.send(response);
-					return console.log("@" + slack.self.name + " responded with \"" + response + "\"");
+					//channel.send(response);
+					//return console.log("@" + slack.self.name + " responded with \"" + response + "\"");
+					chanResp(channel, response);
 				}
                 //else if (text.match('.*([hH][aA][hH][aA])|([Ll][Oo][Ll]).*') != null) {
                 //    response = ':partyparrot: :dance_parrot: :dance_parrot2: :dance_parrot3: BCLEVE IN YOURSELF :dance_parrot3: :dance_parrot2: :dance_parrot: :partyparrot:';
@@ -118,8 +121,9 @@ slack.on('message', function(message) {
                     	}
                     	var fact = data.split('\n');
 						response = "DID YOU KNOW: " + fact[Math.floor(Math.random()*fact.length)];
-						channel.send(response);
-						return console.log("@" + slack.self.name + " responded with \"" + response + "\"");
+						//channel.send(response);
+						//return console.log("@" + slack.self.name + " responded with \"" + response + "\"")
+						chanResp(channel, response);
 					});
 				}
 			}
@@ -134,8 +138,9 @@ slack.on('message', function(message) {
 					//var fact = facttemp[Math.floor(Math.random()*facttemp.length)];
 					//console.log(testfact);
 					response = fact[Math.floor(Math.random()*fact.length)];
-					channel.send(response);
-					return console.log("@" + slack.self.name + " responded with \"" + response + "\"");
+					//channel.send(response);
+					//return console.log("@" + slack.self.name + " responded with \"" + response + "\"");
+					chanResp(channel, response);
  				});
 			}
 			else if (text.match('testing') != null) {
