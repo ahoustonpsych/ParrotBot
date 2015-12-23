@@ -1,0 +1,481 @@
+[Thu Dec 10 2015 15:20:26 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: bottest_ahouston, ahtest
+You have 1 unread message
+Received: message ahtest @ahouston 1449778830.000017 "test"
+@parrotbot could not respond. 
+Received: message ahtest @ahouston 1449778834.000018 "<http://www.dick.xyz|www.dick.xyz>"
+@parrotbot responded with ":dance_parrot:"
+[Thu Dec 10 2015 15:21:41 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: bottest_ahouston, ahtest
+You have 1 unread message
+Received: message ahtest @ahouston 1449778904.000020 "<http://www.dick.xyz|www.dick.xyz>"
+@parrotbot responded with ":dance_parrot:"
+Received: message ahtest @ahouston 1449778906.000022 "www.dick.butt"
+@parrotbot could not respond. 
+Received: message ahtest @ahouston 1449778908.000023 "test"
+@parrotbot could not respond. 
+[Thu Dec 10 2015 15:22:07 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: bottest_ahouston, ahtest
+You have 0 unread messages
+Received: message ahtest @ahouston 1449778931.000024 "fadasdfasdf"
+@parrotbot could not respond. 
+Received: message ahtest @ahouston 1449778934.000025 "<http://www.google.com|www.google.com>"
+@parrotbot responded with ":dance_parrot:"
+[Thu Dec 10 2015 15:22:34 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: bottest_ahouston, ahtest
+You have 1 unread message
+Received: message ahtest @ahouston 1449778959.000027 "test"
+@parrotbot could not respond. 
+Received: message ahtest @ahouston 1449778963.000028 "<http://google.com>"
+@parrotbot responded with ":dance_parrot:"
+Received: message ahtest @ahouston 1449778965.000030 "<http://google.com|google.com>"
+@parrotbot responded with ":dance_parrot:"
+Received: message ahtest @ahouston 1449778970.000032 "test"
+@parrotbot could not respond. 
+Received: message ahtest @ahouston 1449778971.000033 "google"
+@parrotbot could not respond. 
+Received: message ahtest @ahouston 1449778971.000034 ".com"
+@parrotbot could not respond. 
+Received: message ahtest @ahouston 1449778974.000035 "www..com"
+@parrotbot could not respond. 
+Received: message ahtest @ahouston 1449778977.000036 "http"
+@parrotbot could not respond. 
+Received: message ahtest @ahouston 1449778979.000037 "http://"
+@parrotbot responded with ":dance_parrot:"
+[Thu Dec 10 2015 15:24:58 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: bottest_ahouston, ahtest
+You have 1 unread message
+Received: message ahtest @ahouston 1449779102.000045 "test"
+Received: message ahtest @ahouston 1449779103.000046 "http://"
+@parrotbot responded with ":dance_parrot:"
+Received: message ahtest @ahouston 1449779107.000048 "https://"
+@parrotbot responded with ":dance_parrot:"
+Received: message ahtest @ahouston 1449779109.000050 "dsaasdff"
+[Thu Dec 10 2015 15:27:38 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest
+You have 2 unread messages
+Received: message team_cleve @jescobedo 1449779260.002470 "sup new friend"
+Received: message bottest_ahouston @ahouston 1449779297.000086 "should've made it so I can respond in the console"
+Received: message bottest_ahouston @ahouston 1449779300.000087 "meh"
+Received: message bottest_ahouston @jescobedo 1449779353.000088 "hahaha"
+nohup: ignoring input
+[Thu Dec 10 2015 15:29:56 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest
+You have 1 unread message
+Received: message bottest_ahouston @ahouston 1449779720.000089 "jescobedo: should it only work for bcleve, or for everyone?"
+Received: message bottest_ahouston @ahouston 1449779725.000090 "right now it only works for bcleve"
+Received: message bottest_ahouston @jescobedo 1449779730.000091 "ya only for him"
+Received: message bottest_ahouston @ahouston 1449779730.000092 "http://"
+Received: message bottest_ahouston @ahouston 1449779732.000093 "kk"
+Received: message bottest_ahouston @ahouston 1449780488.000094 "test"
+nohup: ignoring input
+[Thu Dec 10 2015 15:48:58 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest
+You have 1 unread message
+nohup: ignoring input
+[Thu Dec 10 2015 15:50:04 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest
+You have 1 unread message
+nohup: ignoring input
+[Thu Dec 10 2015 15:52:08 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest
+You have 1 unread message
+nohup: ignoring input
+[Thu Dec 10 2015 15:53:20 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest
+You have 1 unread message
+nohup: ignoring input
+[Thu Dec 10 2015 15:53:28 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest
+You have 1 unread message
+nohup: ignoring input
+[Thu Dec 10 2015 15:55:29 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest
+You have 1 unread message
+nohup: ignoring input
+[Thu Dec 10 2015 15:58:15 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest
+You have 1 unread message
+nohup: ignoring input
+[Thu Dec 10 2015 15:59:00 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest
+You have 1 unread message
+nohup: ignoring input
+[Thu Dec 10 2015 15:59:16 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest
+You have 1 unread message
+[Sat Dec 12 2015 02:49:40 GMT-0500 (EST)] ERROR Last pong is too old: 14.998
+[Sat Dec 12 2015 02:49:41 GMT-0500 (EST)] INFO Reconnecting in 1000ms
+[Sat Dec 12 2015 02:49:42 GMT-0500 (EST)] INFO Attempting reconnect
+[Sat Dec 12 2015 02:49:42 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest
+You have 1 unread message
+[Sat Dec 12 2015 03:54:43 GMT-0500 (EST)] ERROR Last pong is too old: 10.003
+[Sat Dec 12 2015 03:54:43 GMT-0500 (EST)] INFO Reconnecting in 1000ms
+[Sat Dec 12 2015 03:54:44 GMT-0500 (EST)] INFO Attempting reconnect
+[Sat Dec 12 2015 03:54:44 GMT-0500 (EST)] INFO Connecting...
+Error: ENOTFOUND
+[Sat Dec 12 2015 03:55:04 GMT-0500 (EST)] INFO Reconnecting in 2000ms
+[Sat Dec 12 2015 03:55:06 GMT-0500 (EST)] INFO Attempting reconnect
+[Sat Dec 12 2015 03:55:06 GMT-0500 (EST)] INFO Connecting...
+Error: ENOTFOUND
+[Sat Dec 12 2015 03:55:26 GMT-0500 (EST)] INFO Reconnecting in 3000ms
+[Sat Dec 12 2015 03:55:29 GMT-0500 (EST)] INFO Attempting reconnect
+[Sat Dec 12 2015 03:55:29 GMT-0500 (EST)] INFO Connecting...
+Error: ENOTFOUND
+[Sat Dec 12 2015 03:55:45 GMT-0500 (EST)] INFO Reconnecting in 4000ms
+[Sat Dec 12 2015 03:55:49 GMT-0500 (EST)] INFO Attempting reconnect
+[Sat Dec 12 2015 03:55:49 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest
+You have 1 unread message
+[Sat Dec 12 2015 04:42:58 GMT-0500 (EST)] ERROR Last pong is too old: 10.02
+[Sat Dec 12 2015 04:42:58 GMT-0500 (EST)] INFO Reconnecting in 1000ms
+[Sat Dec 12 2015 04:42:59 GMT-0500 (EST)] INFO Attempting reconnect
+[Sat Dec 12 2015 04:42:59 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest
+You have 1 unread message
+nohup: ignoring input
+[Sun Dec 13 2015 09:10:42 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest
+You have 1 unread message
+nohup: ignoring input
+[Sun Dec 13 2015 10:15:47 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest
+You have 4 unread messages
+nohup: ignoring input
+[Sun Dec 13 2015 12:19:29 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest
+You have 2 unread messages
+/home/thegreekbrit/parrot/slack-client/parrot/parrot.js:85
+                    slack.postMessageToChannel('bottest_ahouston', 'yes');
+                          ^
+
+TypeError: slack.postMessageToChannel is not a function
+    at Client.<anonymous> (/home/thegreekbrit/parrot/slack-client/parrot/parrot.js:85:27)
+    at emitOne (events.js:77:13)
+    at Client.emit (events.js:169:7)
+    at Client.onMessage (/home/thegreekbrit/parrot/slack-client/src/client.js:483:14)
+    at WebSocket.<anonymous> (/home/thegreekbrit/parrot/slack-client/src/client.js:140:24)
+    at emitTwo (events.js:87:13)
+    at WebSocket.emit (events.js:172:7)
+    at Receiver.ontext (/home/thegreekbrit/parrot/slack-client/node_modules/ws/lib/WebSocket.js:816:10)
+    at /home/thegreekbrit/parrot/slack-client/node_modules/ws/lib/Receiver.js:477:18
+    at Receiver.applyExtensions (/home/thegreekbrit/parrot/slack-client/node_modules/ws/lib/Receiver.js:364:5)
+nohup: ignoring input
+[Sun Dec 13 2015 12:19:58 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest
+You have 2 unread messages
+@parrotbot responded with ":dance_parrot2:"
+@parrotbot responded with ":dance_parrot2:"
+[Sun Dec 13 2015 12:24:43 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston
+You have 2 unread messages
+[Sun Dec 13 2015 12:25:17 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston
+You have 2 unread messages
+@parrotbot responded with ":dance_parrot2:"
+[Sun Dec 13 2015 16:01:04 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston
+You have 1 unread message
+@parrotbot responded with ":dance_parrot2:"
+[Mon Dec 14 2015 14:54:07 GMT-0500 (EST)] ERROR Last pong is too old: 10.006
+[Mon Dec 14 2015 14:54:07 GMT-0500 (EST)] INFO Reconnecting in 1000ms
+[Mon Dec 14 2015 14:54:08 GMT-0500 (EST)] INFO Attempting reconnect
+[Mon Dec 14 2015 14:54:08 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston
+You have 0 unread messages
+@parrotbot responded with ":dance_parrot:"
+@parrotbot responded with ":dance_parrot2:"
+@parrotbot responded with ":dance_parrot2:"
+@parrotbot responded with ":dance_parrot2:"
+[Tue Dec 15 2015 08:19:11 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston
+You have 23 unread messages
+@parrotbot responded with ":dance_parrot2:"
+@parrotbot responded with ":dance_parrot:"
+@parrotbot responded with ":dance_parrot2:"
+@parrotbot responded with ":dance_parrot:"
+@parrotbot responded with ":dance_parrot:"
+@parrotbot responded with ":dance_parrot2:"
+@parrotbot responded with ":dance_parrot2:"
+@parrotbot responded with ":dance_parrot2:"
+@parrotbot responded with ":dance_parrot2:"
+[Thu Dec 17 2015 02:22:09 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston
+You have 1 unread message
+[Thu Dec 17 2015 02:22:50 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston
+You have 1 unread message
+[Thu Dec 17 2015 02:23:54 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston
+You have 1 unread message
+@parrotbot responded with ":dance_parrot2: :dance_parrot2: :damce_parrot2:"
+[Thu Dec 17 2015 02:24:24 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston
+You have 0 unread messages
+[Thu Dec 17 2015 02:24:57 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston
+You have 0 unread messages
+@parrotbot responded with ":dance_parrot2: :dance_parrot2: :dance_parrot2:"
+@parrotbot responded with ":dance_parrot: :dance_parrot: :dance_parrot:"
+[Thu Dec 17 2015 09:04:12 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston
+You have 0 unread messages
+/home/thegreekbrit/parrot/slack-client/parrot/parrot.js:81
+				if (text.match('.*[hH][aA][hH][aA].*') {
+				                                       ^
+
+SyntaxError: Unexpected token {
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:413:25)
+    at Object.Module._extensions..js (module.js:452:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:475:10)
+    at startup (node.js:118:18)
+    at node.js:952:3
+/home/thegreekbrit/parrot/slack-client/parrot/parrot.js:81
+				if (text.match('.*[hH][aA][hH][aA].*') {
+				                                       ^
+
+SyntaxError: Unexpected token {
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:413:25)
+    at Object.Module._extensions..js (module.js:452:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:475:10)
+    at startup (node.js:118:18)
+    at node.js:952:3
+[Thu Dec 17 2015 13:44:51 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston
+You have 3 unread messages
+@parrotbot responded with ":dance_parrot2: :dance_parrot2: :dance_parrot2:"
+@parrotbot responded with ":partyparrot: :dance_parrot: :dance_parrot2: :dance_parrot3: BCLEVE IN YOURSELF :dance_parrot3: :dance_parrot2: :dance_parrot: :partyparrot:"
+@parrotbot responded with ":partyparrot: :dance_parrot: :dance_parrot2: :dance_parrot3: BCLEVE IN YOURSELF :dance_parrot3: :dance_parrot2: :dance_parrot: :partyparrot:"
+@parrotbot responded with ":partyparrot: :dance_parrot: :dance_parrot2: :dance_parrot3: BCLEVE IN YOURSELF :dance_parrot3: :dance_parrot2: :dance_parrot: :partyparrot:"
+@parrotbot responded with ":partyparrot: :dance_parrot: :dance_parrot2: :dance_parrot3: BCLEVE IN YOURSELF :dance_parrot3: :dance_parrot2: :dance_parrot: :partyparrot:"
+[Thu Dec 17 2015 13:50:00 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest, supersecretclevechat
+You have 1 unread message
+[Thu Dec 17 2015 15:41:25 GMT-0500 (EST)] ERROR Last pong is too old: 10.807
+[Thu Dec 17 2015 15:41:25 GMT-0500 (EST)] INFO Reconnecting in 1000ms
+[Thu Dec 17 2015 15:41:26 GMT-0500 (EST)] INFO Attempting reconnect
+[Thu Dec 17 2015 15:41:26 GMT-0500 (EST)] INFO Connecting...
+Error: [object Object]
+[Tue Dec 22 2015 10:59:28 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest, supersecretclevechat
+You have 144 unread messages
+@parrotbot responded with ":partyparrot: :dance_parrot: :dance_parrot2: :dance_parrot3: BCLEVE IN YOURSELF :dance_parrot3: :dance_parrot2: :dance_parrot: :partyparrot:"
+@parrotbot responded with ":partyparrot: :dance_parrot: :dance_parrot2: :dance_parrot3: BCLEVE IN YOURSELF :dance_parrot3: :dance_parrot2: :dance_parrot: :partyparrot:"
+@parrotbot responded with ":partyparrot: :dance_parrot: :dance_parrot2: :dance_parrot3: BCLEVE IN YOURSELF :dance_parrot3: :dance_parrot2: :dance_parrot: :partyparrot:"
+@parrotbot responded with ":partyparrot: :dance_parrot: :dance_parrot2: :dance_parrot3: BCLEVE IN YOURSELF :dance_parrot3: :dance_parrot2: :dance_parrot: :partyparrot:"
+@parrotbot responded with ":partyparrot: :dance_parrot: :dance_parrot2: :dance_parrot3: BCLEVE IN YOURSELF :dance_parrot3: :dance_parrot2: :dance_parrot: :partyparrot:"
+[Tue Dec 22 2015 11:00:26 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest, supersecretclevechat
+You have 144 unread messages
+[Tue Dec 22 2015 11:02:31 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest, supersecretclevechat
+You have 144 unread messages
+@parrotbot responded with ":dance_parrot: BCLEVE IN YOURSELF :dance_parrot:"
+[Tue Dec 22 2015 12:58:52 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest
+You have 45 unread messages
+[Wed Dec 23 2015 08:36:42 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest, supersecretclevechat
+You have 0 unread messages
+The kakapo is the heaviest parrot in the world.
+
+The kakapo is possibly the longest-living bird species in the world. The low adult mortality rate suggests and average life expectancy of 90 years!
+
+The kakapo is large and flightless bird.
+
+In the breeding season, the male kakapo can inflate like a balloon and emit a low ‘sonic’ boom which, in mountainous terrain, can be heard up to five kilometres away.
+
+The traditional diet of kakapo is strictly herbivorous.
+
+Kakapo have thighs typical of New Zealand’s more famous All Black rugby forwards, allowing them to walk several kilometers at a time, and to turn on a fair burst of speed as well.
+
+The kakapo is the heavyweight champion of the parrot world; smaller females typically weighing 1.4kg, and males 2.2kg. Fat reserves of a kilogram or more can be added prior to a breeding season.
+
+It is thought that, many hundreds of thousands of years ago, the kakapo was probably a typical, lightweight parrot that flew through the air to travel and gather its food. But the process of evolution without the presence and effect of mammals in New Zealand saw the bird give away its flying skills, put on weight, and become a good hiker and climber instead, with powerful claws.
+
+The kakapo is best described as a midnight rambler, spending most of its life sleeping during the day and wandering alone through the forest at night.
+
+Kakapo have a fucking scary-ass call, called a "skraark". It's awful. Check it out: http://kakaporecovery.org.nz/wp-content/uploads/2013/03/skraark.mp3
+
+Kakapo are solitary creatures. They gather only to breed, and the females are left to raise their chicks alone. Typically, each bird keeps to itself during the day, tucked up in a roost on the ground or in a tree, and venturing out at night to feed.
+
+A peculiar habit of the kakapo is to freeze when disturbed, keeping absolutely still and hoping to blend into the background. Most animals have evolved more useful forms of defence, such as taking flight; but the kakapo obviously did not need this behaviour in the days when New Zealand’s only predators were avian, such as Haast’s eagle.
+
+Everything in the kakapo’s lifestyle happens slowly. Males do not start breeding until they are about four years old, while females do not start until they are at least six years old. Even then, breeding does not take place every year. Rather, it seems to be dependent on the availability of key food supplies, such as the fruiting of rimu trees, and will happen on average only every two to four years.
+
+None of the kakapo whose ages we do know have yet died of old age, even though most were discovered 15-30 years ago. In fact, it may not be known how long kakapo live until some of the birds hatched during the Kakapo Recovery program die of old age, which might be several decades away.
+
+[Wed Dec 23 2015 08:48:10 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest, supersecretclevechat
+You have 0 unread messages
+Kakapo are solitary creatures. They gather only to breed, and the females are left to raise their chicks alone. Typically, each bird keeps to itself during the day, tucked up in a roost on the ground or in a tree, and venturing out at night to feed.
+Kakapo are solitary creatures. They gather only to breed, and the females are left to raise their chicks alone. Typically, each bird keeps to itself during the day, tucked up in a roost on the ground or in a tree, and venturing out at night to feed.
+In the breeding season, the male kakapo can inflate like a balloon and emit a low ‘sonic’ boom which, in mountainous terrain, can be heard up to five kilometres away.
+The kakapo is best described as a midnight rambler, spending most of its life sleeping during the day and wandering alone through the forest at night.
+Kakapo are solitary creatures. They gather only to breed, and the females are left to raise their chicks alone. Typically, each bird keeps to itself during the day, tucked up in a roost on the ground or in a tree, and venturing out at night to feed.
+It is thought that, many hundreds of thousands of years ago, the kakapo was probably a typical, lightweight parrot that flew through the air to travel and gather its food. But the process of evolution without the presence and effect of mammals in New Zealand saw the bird give away its flying skills, put on weight, and become a good hiker and climber instead, with powerful claws.
+None of the kakapo whose ages we do know have yet died of old age, even though most were discovered 15-30 years ago. In fact, it may not be known how long kakapo live until some of the birds hatched during the Kakapo Recovery program die of old age, which might be several decades away.
+It is thought that, many hundreds of thousands of years ago, the kakapo was probably a typical, lightweight parrot that flew through the air to travel and gather its food. But the process of evolution without the presence and effect of mammals in New Zealand saw the bird give away its flying skills, put on weight, and become a good hiker and climber instead, with powerful claws.
+[Wed Dec 23 2015 08:50:11 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest, supersecretclevechat
+You have 0 unread messages
+@parrotbot responded with "Kakapo are solitary creatures. They gather only to breed, and the females are left to raise their chicks alone. Typically, each bird keeps to itself during the day, tucked up in a roost on the ground or in a tree, and venturing out at night to feed."
+@parrotbot responded with "Kakapo have a fucking scary-ass call, called a "skraark". It's awful. Check it out: http://kakaporecovery.org.nz/wp-content/uploads/2013/03/skraark.mp3"
+@parrotbot responded with "The kakapo is best described as a midnight rambler, spending most of its life sleeping during the day and wandering alone through the forest at night."
+@parrotbot responded with "A peculiar habit of the kakapo is to freeze when disturbed, keeping absolutely still and hoping to blend into the background. Most animals have evolved more useful forms of defence, such as taking flight; but the kakapo obviously did not need this behaviour in the days when New Zealand’s only predators were avian, such as Haast’s eagle."
+@parrotbot responded with "Kakapo are solitary creatures. They gather only to breed, and the females are left to raise their chicks alone. Typically, each bird keeps to itself during the day, tucked up in a roost on the ground or in a tree, and venturing out at night to feed."
+/home/thegreekbrit/parrot/slack-client/parrot/parrot.js:119
+					}
+					^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:413:25)
+    at Object.Module._extensions..js (module.js:452:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:475:10)
+    at startup (node.js:118:18)
+    at node.js:952:3
+[Wed Dec 23 2015 08:54:38 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest, supersecretclevechat
+You have 1 unread message
+@parrotbot responded with ":dance_parrot2: :dance_parrot2: :dance_parrot2:"
+@parrotbot responded with ":partyparrot: :dance_parrot: :dance_parrot2: :dance_parrot3: BCLEVE IN YOURSELF :dance_parrot3: :dance_parrot2: :dance_parrot: :partyparrot:"
+@parrotbot responded with "The kakapo is the heavyweight champion of the parrot world; smaller females typically weighing 1.4kg, and males 2.2kg. Fat reserves of a kilogram or more can be added prior to a breeding season."
+@parrotbot responded with "Kakapo are solitary creatures. They gather only to breed, and the females are left to raise their chicks alone. Typically, each bird keeps to itself during the day, tucked up in a roost on the ground or in a tree, and venturing out at night to feed."
+@parrotbot responded with "Kakapo are solitary creatures. They gather only to breed, and the females are left to raise their chicks alone. Typically, each bird keeps to itself during the day, tucked up in a roost on the ground or in a tree, and venturing out at night to feed."
+@parrotbot responded with "In the breeding season, the male kakapo can inflate like a balloon and emit a low ‘sonic’ boom which, in mountainous terrain, can be heard up to five kilometres away."
+@parrotbot responded with ":partyparrot: :dance_parrot: :dance_parrot2: :dance_parrot3: BCLEVE IN YOURSELF :dance_parrot3: :dance_parrot2: :dance_parrot: :partyparrot:"
+@parrotbot responded with ":partyparrot: :dance_parrot: :dance_parrot2: :dance_parrot3: BCLEVE IN YOURSELF :dance_parrot3: :dance_parrot2: :dance_parrot: :partyparrot:"
+/home/thegreekbrit/parrot/slack-client/parrot/parrot.js:138
+	}
+	^
+
+SyntaxError: missing ) after argument list
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:413:25)
+    at Object.Module._extensions..js (module.js:452:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:475:10)
+    at startup (node.js:118:18)
+    at node.js:952:3
+[Wed Dec 23 2015 08:58:04 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest, supersecretclevechat
+You have 4 unread messages
+@parrotbot responded with ":dance_parrot2: :dance_parrot2: :dance_parrot2:"
+@parrotbot responded with "The traditional diet of kakapo is strictly herbivorous."
+[Wed Dec 23 2015 09:00:51 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest, supersecretclevechat
+You have 1 unread message
+@parrotbot responded with "DID YOU KNOW: Kakapo have thighs typical of New Zealand’s more famous All Black rugby forwards, allowing them to walk several kilometers at a time, and to turn on a fair burst of speed as well."
+@parrotbot responded with "DID YOU KNOW: The kakapo is best described as a midnight rambler, spending most of its life sleeping during the day and wandering alone through the forest at night."
+@parrotbot responded with "DID YOU KNOW: Kakapo are solitary creatures. They gather only to breed, and the females are left to raise their chicks alone. Typically, each bird keeps to itself during the day, tucked up in a roost on the ground or in a tree, and venturing out at night to feed."
+[Wed Dec 23 2015 09:31:23 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest, supersecretclevechat
+You have 1 unread message
+@parrotbot responded with "DID YOU KNOW: The kakapo is possibly the longest-living bird species in the world. The low adult mortality rate suggests and average life expectancy of 90 years!"
+@parrotbot responded with "DID YOU KNOW: A peculiar habit of the kakapo is to freeze when disturbed, keeping absolutely still and hoping to blend into the background. Most animals have evolved more useful forms of defence, such as taking flight; but the kakapo obviously did not need this behaviour in the days when New Zealand’s only predators were avian, such as Haast’s eagle."
+@parrotbot responded with "DID YOU KNOW: Watch a kakapo named Sirocco attempt to mate with some dude's head while Stephen Fry laughs at him: https://www.youtube.com/watch?v=9T1vfsHYiKY"
