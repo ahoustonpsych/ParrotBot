@@ -69,6 +69,20 @@ slack.on('message', function(message) {
 	if (type === 'message' && (text != null) && (channel != null)) {
 		//team_cleve
 		if (channelName == 'team_cleve') {
+			//all users
+			if (userName != null) {
+				//parrot facts
+				if (text.match('^!parrot.*') != null) {
+					fs.readFile('/home/thegreekbrit/parrot/slack-client/parrot/facts.js', 'utf8', function (err,data) {
+						if (err) {
+							return console.log(err);
+						}
+						var fact = data.split('\n');
+						response = "DID YOU KNOW: " + fact[Math.floor(Math.random()*fact.length)] + " :partyparrot:";
+						chanResp(channel, response);
+					});
+				}
+			}
 			//bcleve
 			if (userName == '@bcleveland') {
 				//match on link
@@ -79,8 +93,25 @@ slack.on('message', function(message) {
 			}
 		}
 		
+		//secret cleve chat
 		else if (channelName == 'supersecretclevechat') {
+			//all users
+			if (userName != null) {
+				//parrot facts
+				if (text.match('^!parrot.*') != null) {
+					fs.readFile('/home/thegreekbrit/parrot/slack-client/parrot/facts.js', 'utf8', function (err,data) {
+						if (err) {
+							return console.log(err);
+						}
+						var fact = data.split('\n');
+						response = "DID YOU KNOW: " + fact[Math.floor(Math.random()*fact.length)] + " :partyparrot:";
+						chanResp(channel, response);
+					});
+				}
+			}
+			//bcleve
 			if (userName == '@bcleveland') {
+				//haha or lol
 				if (text.match('.*([hH][aA][hH][aA])|([Ll][Oo][Ll]).*') != null) {
 					response = ':partyparrot: :dance_parrot: :dance_parrot2: :dance_parrot3: BCLEVE IN YOURSELF :dance_parrot3: :dance_parrot2: :dance_parrot: :partyparrot:';
 					chanResp(channel, response);
@@ -90,36 +121,39 @@ slack.on('message', function(message) {
 		//bottest
 		else if (channelName == 'bottest_ahouston') {
 			//ahouston 
-			//if (userName == '@ahouston') {
 			if (userName != null) {
 				//match on 'test123'
 				if (text.match('test123') != null) {
 					response = ':dance_parrot2: :dance_parrot2: :dance_parrot2:';
 					chanResp(channel, response);
 				}
+				//parrot facts
 				else if (text.match('^!parrot.*') != null) {
-                	fs.readFile('/home/thegreekbrit/parrot/slack-client/parrot/facts.js', 'utf8', function (err,data) {
-                    	if (err) {
-                        	return console.log(err);
-                    	}
-                    	var fact = data.split('\n');
-						response = "DID YOU KNOW: " + fact[Math.floor(Math.random()*fact.length)];
+					fs.readFile('/home/thegreekbrit/parrot/slack-client/parrot/facts.js', 'utf8', function (err,data) {
+						if (err) {
+							return console.log(err);
+						}
+						var fact = data.split('\n');
+						response = "DID YOU KNOW: " + fact[Math.floor(Math.random()*fact.length)] + " :partyparrot:";
 						chanResp(channel, response);
 					});
 				}
 			}
 		}
+		//ahtest
 		else if (channelName == 'ahtest') {
+			//parrot facts
 			if (text.match('^!parrot.*') != null) {
 				fs.readFile('/home/thegreekbrit/parrot/slack-client/parrot/facts.js', 'utf8', function (err,data) {
 					if (err) {
 						return console.log(err);
 					}
 					var fact = data.split('\n');
-					response = fact[Math.floor(Math.random()*fact.length)];
+					response = "DID YOU KNOW: " + fact[Math.floor(Math.random()*fact.length)] + " :partyparrot:";
 					chanResp(channel, response);
  				});
 			}
+			//func test
 			else if (text.match('testing') != null) {
 				response = "yes";
 				chanResp(channel, response);

@@ -1,7 +1,7 @@
 The kakapo is the heaviest parrot in the world.
 The kakapo is possibly the longest-living bird species in the world. The low adult mortality rate suggests and average life expectancy of 90 years!
 The kakapo is large and flightless bird.
-In the breeding season, the male kakapo can inflate like a balloon and emit a low ‘sonic’ boom which, in mountainous terrain, can be heard up to five kilometres away.
+In the breeding season, the male kakapo can inflate like a balloon and emit a low ‘sonic’ boom which, in mountainous terrain, can be heard up to five kilometers away.
 The traditional diet of kakapo is strictly herbivorous.
 Kakapo have thighs typical of New Zealand’s more famous All Black rugby forwards, allowing them to walk several kilometers at a time, and to turn on a fair burst of speed as well.
 The kakapo is the heavyweight champion of the parrot world; smaller females typically weighing 1.4kg, and males 2.2kg. Fat reserves of a kilogram or more can be added prior to a breeding season.
