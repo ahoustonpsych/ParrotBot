@@ -13,7 +13,6 @@ fs = require('fs')
 slack = new Slack(token, autoReconnect, autoMark);
 
 var chanResp = function(channel, response) {
-	//response = ':dance_parrot: BCLEVE IN YOURSELF :dance_parrot:';
 	channel.send(response);
 	return console.log("@" + slack.self.name + " responded with \"" + response + "\"");
 }
@@ -65,11 +64,8 @@ slack.on('message', function(message) {
 	channelName = (channel != null ? channel.is_channel : void 0) ? '#' : '';
 	channelName = channelName + (channel ? channel.name : 'UNKNOWN_CHANNEL');
 	userName = (user != null ? user.name : void 0) != null ? "@" + user.name : "UNKNOWN_USER";
-	//console.log("Received: " + type + " " + channelName + " " + userName + " " + ts + " \"" + text + "\"");
-
 	
 	// EVENTS AND SHIT
-	//console.log(slack);
 	if (type === 'message' && (text != null) && (channel != null)) {
 		//team_cleve
 		if (channelName == 'team_cleve') {
@@ -78,9 +74,6 @@ slack.on('message', function(message) {
 				//match on link
 				if (text.match('http(s?):\/\/') != null) {
 					response = ':dance_parrot: BCLEVE IN YOURSELF :dance_parrot:';
-					//response = ':partyparrot: :dance_parrot: :dance_parrot2: :dance_parrot3: BCLEVE IN YOURSELF :dance_parrot3: :dance_parrot2: :dance_parrot: :partyparrot:';
-					//channel.send(response);
-					//return console.log("@" + slack.self.name + " responded with \"" + response + "\"");
 					chanResp(channel, response);
 				}
 			}
@@ -89,10 +82,7 @@ slack.on('message', function(message) {
 		else if (channelName == 'supersecretclevechat') {
 			if (userName == '@bcleveland') {
 				if (text.match('.*([hH][aA][hH][aA])|([Ll][Oo][Ll]).*') != null) {
-					//response = ':dance_parrot: BCLEVE IN YOURSELF :dance_parrot:';
 					response = ':partyparrot: :dance_parrot: :dance_parrot2: :dance_parrot3: BCLEVE IN YOURSELF :dance_parrot3: :dance_parrot2: :dance_parrot: :partyparrot:';
-					//channel.send(response);
-					//return console.log("@" + slack.self.name + " responded with \"" + response + "\"");
 					chanResp(channel, response);
 				}
 			}
@@ -105,15 +95,8 @@ slack.on('message', function(message) {
 				//match on 'test123'
 				if (text.match('test123') != null) {
 					response = ':dance_parrot2: :dance_parrot2: :dance_parrot2:';
-					//channel.send(response);
-					//return console.log("@" + slack.self.name + " responded with \"" + response + "\"");
 					chanResp(channel, response);
 				}
-                //else if (text.match('.*([hH][aA][hH][aA])|([Ll][Oo][Ll]).*') != null) {
-                //    response = ':partyparrot: :dance_parrot: :dance_parrot2: :dance_parrot3: BCLEVE IN YOURSELF :dance_parrot3: :dance_parrot2: :dance_parrot: :partyparrot:';
-                //    channel.send(response);
-                //    return console.log("@" + slack.self.name + " responded with \"" + response + "\"");
-				//}
 				else if (text.match('^!parrot.*') != null) {
                 	fs.readFile('/home/thegreekbrit/parrot/slack-client/parrot/facts.js', 'utf8', function (err,data) {
                     	if (err) {
@@ -121,8 +104,6 @@ slack.on('message', function(message) {
                     	}
                     	var fact = data.split('\n');
 						response = "DID YOU KNOW: " + fact[Math.floor(Math.random()*fact.length)];
-						//channel.send(response);
-						//return console.log("@" + slack.self.name + " responded with \"" + response + "\"")
 						chanResp(channel, response);
 					});
 				}
@@ -135,11 +116,7 @@ slack.on('message', function(message) {
 						return console.log(err);
 					}
 					var fact = data.split('\n');
-					//var fact = facttemp[Math.floor(Math.random()*facttemp.length)];
-					//console.log(testfact);
 					response = fact[Math.floor(Math.random()*fact.length)];
-					//channel.send(response);
-					//return console.log("@" + slack.self.name + " responded with \"" + response + "\"");
 					chanResp(channel, response);
  				});
 			}
@@ -156,7 +133,6 @@ slack.on('message', function(message) {
 		errors = [typeError, textError, channelError].filter(function(element) {
 			return element !== null;
 		}).join(' ');
-		//return console.log("@" + slack.self.name + " could not respond. " + errors);
 	}
 });
 
