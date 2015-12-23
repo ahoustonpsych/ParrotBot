@@ -85,7 +85,7 @@ slack.on('message', function(message) {
 			}
 			//bcleve
 			if (userName == '@bcleveland') {
-				//match on link
+				//link
 				if (text.match('http(s?):\/\/') != null) {
 					response = ':dance_parrot: BCLEVE IN YOURSELF :dance_parrot:';
 					chanResp(channel, response);
@@ -122,7 +122,7 @@ slack.on('message', function(message) {
 		else if (channelName == 'bottest_ahouston') {
 			//ahouston 
 			if (userName != null) {
-				//match on 'test123'
+				//test123
 				if (text.match('test123') != null) {
 					response = ':dance_parrot2: :dance_parrot2: :dance_parrot2:';
 					chanResp(channel, response);
