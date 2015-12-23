@@ -655,3 +655,14 @@ You are in:
 As well as: team_cleve, bottest_ahouston, ahtest, supersecretclevechat
 You have 1 unread message
 @parrotbot responded with "Kakapo are friendly! Both the Maori and early European settlers kept kakapo as pets. Even wild kakapo are known to approach, climb on, and preen people."
+[Wed Dec 23 2015 10:16:09 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest, supersecretclevechat
+You have 1 unread message
+[Wed Dec 23 2015 10:17:30 GMT-0500 (EST)] INFO Connecting...
+Welcome to Slack. You are @parrotbot of LW
+You are in: 
+As well as: team_cleve, bottest_ahouston, ahtest, supersecretclevechat
+You have 0 unread messages
+@parrotbot responded with "yes"

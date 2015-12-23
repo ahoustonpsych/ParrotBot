@@ -4,19 +4,13 @@ Slack = require ('..')
 
 token = 'xoxb-16399510402-PO81SMTTKAMUQjEV7p1r2Jbd';
 
+fs = require('fs')
+
 autoReconnect = true;
 
 autoMark = true;
 
-fs = require('fs')
-
 slack = new Slack(token, autoReconnect, autoMark);
-
-var chanResp = function(channel, response) {
-	//response = ':dance_parrot: BCLEVE IN YOURSELF :dance_parrot:';
-	channel.send(response);
-	return console.log("@" + slack.self.name + " responded with \"" + response + "\"");
-}
 
 slack.on('open', function() {
 	var channel, channels, group, groups, id, messages, unreads;
@@ -137,10 +131,6 @@ slack.on('message', function(message) {
 					channel.send(response);
 					return console.log("@" + slack.self.name + " responded with \"" + response + "\"");
  				});
-			}
-			else if (text.match('testing') != null) {
-				response = "yes";
-				chanResp(channel, response);
 			}
 		}
 	}
